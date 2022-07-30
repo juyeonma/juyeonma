@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python, SQL
 
-📫 Contact me at this email: juyeonma9@gmail.com
+📫 Contact me: juyeonma9@gmail.com
 
 📚 My blog is https://velog.io/@juyeonma9
 

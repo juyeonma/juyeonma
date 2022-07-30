@@ -1,25 +1,30 @@
-👋 Hi, I’m @juyeonma
+# Hi. My name is Juyeon Ma 👋 
 
-👀 I’m interested in Psychology, Data Science, Data Analysis
+😊 I’m interested in Psychology, Data Science, Data Analysis
 
 🌱 I’m currently learning Python, SQL
 
-💞️ I’m looking to collaborate on ...
-
 📫 Contact me at this email: juyeonma9@gmail.com
 
-
-<a href="https://velog.io/@juyeonma9">
-    <img 
-        src="http://img.shields.io/badge/-juyeon.log-20C997?style=flat&logo=Vector Logo Zone&link=https://velog.io/@juyeonma9"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+📚 My blog is https://velog.io/@juyeonma9
 
 
+## 💛 Major
+- Major in Sociology 
+- Double Major in Psychology 
+- Minor in Business Administration
+
+## 💙 article
+- Verification of validity of self-report related to sexual attitudes: Based on correlation between implicit attitudes and self-report 
+  - Reference: 조환희,강지윤,김혜진,마주연,& HWANGSAMUEL SUK H. (2019). 성과 관련된 자기보고의 타당성 검증: 암묵적 태도와 자기보고 간의 상관을 토대로. 한국심리학회지 일반, 38(2), 127-146.
+
+<br>
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeonma9)](https://solved.ac/juyeonma9)
 
 ![juyeonma's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeonma&theme=vue&show_icons=true)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeonma9)](https://solved.ac/juyeonma9)
 
 <!--- 
 - 출처 : https://velog.io/@dding_ji/Github-Readme-Profile

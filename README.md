@@ -1,14 +1,21 @@
 👋 Hi, I’m @juyeonma
+
 👀 I’m interested in Psychology, Data Science, Data Analysis
+
 🌱 I’m currently learning Python, SQL
+
 💞️ I’m looking to collaborate on ...
+
 📫 Contact me at this email: juyeonma9@gmail.com
+
 
 <a href="https://velog.io/@juyeonma9">
     <img 
         src="http://img.shields.io/badge/-juyeon.log-20C997?style=flat&logo=Vector Logo Zone&link=https://velog.io/@juyeonma9"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+
 
 ![juyeonma's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeonma&theme=vue&show_icons=true)
 

@@ -1,6 +1,6 @@
 # Hi. My name is Juyeon Ma 👋 
 
-⭐ I'm participating in the KT Aivle School 2nd AI track.
+⭐ I'm participating in KT Aivle School 2nd AI track.
 
 😊 I’m interested in Psychology, Data Science, Data Analysis
 

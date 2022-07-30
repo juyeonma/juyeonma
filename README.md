@@ -8,7 +8,7 @@
 
 📫 Contact me: juyeonma9@gmail.com
 
-📚 My blog is https://velog.io/@juyeonma9
+📚 My blog is [juyeon.log](https://velog.io/@juyeonma9)
 
 
 ## 💛 Major

@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @juyeonma
-- 👀 I’m interested in Psychology, Data Science, Data Analysis
-- 🌱 I’m currently learning Python, SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact me at this email: juyeonma9@gmail.com
+👋 Hi, I’m @juyeonma
+👀 I’m interested in Psychology, Data Science, Data Analysis
+🌱 I’m currently learning Python, SQL
+💞️ I’m looking to collaborate on ...
+📫 Contact me at this email: juyeonma9@gmail.com
 
 <a href="https://velog.io/@juyeonma9">
     <img 

@@ -4,10 +4,7 @@
 
 🌱 I’m currently learning Python, SQL
 
-📫 Contact me by juyeonma9@gmail.com
-
-📚 My blog is [juyeon.log](https://velog.io/@juyeonma9)
-
+📫 How to reach me.. <a href="https://velog.io/@juyeonma9" target="_blank"><img src="https://img.shields.io/badge/juyeon.log-20C997?style=flat&logo=Velog&logoColor=FFFFFF"/></a> &nbsp; <a href="mailto:juyeonma9@gmail.com"><img src="https://img.shields.io/badge/Gmail-FECC00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeonma9@gmail.com"/></a>
 
 ## 💚 Education
 - Chonnam National University (2014.03 ~ 2020.02)
@@ -29,14 +26,8 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeonma9)](https://solved.ac/juyeonma9)
-
-
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={juyeonma9}&theme=warm)
-
-<img src="http://mazandi.herokuapp.com/api?handle={juyeonma9}&theme=warm"/>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=juyeonma9&theme=warm)
 
 ![juyeonma's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeonma&theme=vue&show_icons=true)
 

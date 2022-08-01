@@ -30,6 +30,14 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeonma9)](https://solved.ac/juyeonma9)
 
+
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={juyeonma9}&theme=warm)
+
+<img src="http://mazandi.herokuapp.com/api?handle={juyeonma9}&theme=warm"/>
+
+
+
 ![juyeonma's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeonma&theme=vue&show_icons=true)
 
 
